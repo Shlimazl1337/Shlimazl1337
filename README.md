@@ -45,6 +45,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlimazl1337&layout=compact" >
 </details>
 
+<br />
+
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=shlimazl1337&theme=material-palenight"></p>
+
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=shlimazl1337&show_icons=true&theme=tokyonight" /></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlimazl1337&layout=compact&theme=blueberry" /></p>
 
 [youtube]: https://www.youtube.com/channel/UC5xrD4EqBRtlQnMfyTIJ72Q
 [instagram]: https://www.instagram.com/bencoksanslibirinsanim
