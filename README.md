@@ -27,6 +27,17 @@
 - [İNGİLİZCE TEST ÇÖZELİM | YENİ KELİMELER](https://www.youtube.com/watch?v=njJQoaeBzW4)
 <!-- YOUTUBE:END -->
 
+<br />
+
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Shlimaz1337&theme=radical" >
+</details>
+
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlimaz1337&layout=compact" >
+</details>
 
 [youtube]: https://www.youtube.com/channel/UC5xrD4EqBRtlQnMfyTIJ72Q
 [instagram]: https://www.instagram.com/bencoksanslibirinsanim
