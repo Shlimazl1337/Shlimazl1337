@@ -13,6 +13,21 @@
 
 <br />
 
+```diff 
+💀 Age: 16.
+📬 Contacts: https://discord.gg/DsbrkKmMmC.
+🖥️ Favorite Coding Lang: Python.
+👾 Wants to learn: Machine Learning and AI.
+💼 Experience: 4-5 years.
+🇺🇸 Participating in: FBLA. (2 years) 
+🌳 Hobbies: Mountain Biking, Tennis, Swimming.
+
+📜 About me: I began coding when I was around 11. Fast forward to now, and I have learned more industry related langauges, and started several open source projects. I am currently learning Golang and C#. 
+
+```
+
+<br />
+
 ### Tech I Use
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25"><img src="https://icons.iconarchive.com/icons/froyoshark/enkel/128/iTerm-icon.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="25" width="25">
 
