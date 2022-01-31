@@ -6,6 +6,17 @@
 
 <br>
 
+```diff
+🎂 Age: 15
+📬 Discord: Shlimazl#1337
+⏳︎ Experience: 5 Months
+🖥️ Favorite: Python, Discord
+👾 I'm learning: Everything
+```
+
+<br />
+
+
 ### Reach Out To Me
 
 [<img height="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" align="left"/>][youtube]
@@ -17,9 +28,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25"><img src="https://icons.iconarchive.com/icons/froyoshark/enkel/128/iTerm-icon.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="25" width="25">
 
 
-## Latest YouTube Videos
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7oAeAFZdGlzbe5f4F-pdAPjIobWcMZHnMw&usqp=CAU0"> Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --
 <!-- YOUTUBE:END -->
 
 <br />
