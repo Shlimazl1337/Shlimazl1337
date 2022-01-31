@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25" width="25"><img src="https://icons.iconarchive.com/icons/froyoshark/enkel/128/iTerm-icon.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" height="25" width="25"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="25" width="25">
 
 
-## <img src="https://user-images.githubusercontent.com/93388959/151858343-4ee2ffab-5eaa-49f6-a60a-1b10823a776a.png" weight="10" height="10" /> Latest YouTube Videos
+## <img src="https://user-images.githubusercontent.com/93388959/151858343-4ee2ffab-5eaa-49f6-a60a-1b10823a776a.png" weight="40" height="50" /> Latest YouTube Videos
 
 <!-- YOUTUBE:START --
 <!-- YOUTUBE:END -->
