@@ -31,13 +31,14 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=shlimaz1337&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&theme=radical" >
 </details>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlimaz1337&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
 </details>
+
 
 [youtube]: https://www.youtube.com/channel/UC5xrD4EqBRtlQnMfyTIJ72Q
 [instagram]: https://www.instagram.com/bencoksanslibirinsanim
