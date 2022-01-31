@@ -1,6 +1,8 @@
 <img src="https://media.giphy.com/media/TOWeGr70V2R1K/giphy.gif" align="right" height="290" />
 
->I don't like coffee and I'm a coder¿
+```diff 
+pip install a-hack
+```
 
 ## Python Developer | Making Hacking Tools
 
@@ -10,21 +12,6 @@
 
 [<img height="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" align="left"/>][youtube]
 [<img height="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][instagram]
-
-<br />
-
-```diff 
-💀 Age: 16.
-📬 Contacts: https://discord.gg/DsbrkKmMmC.
-🖥️ Favorite Coding Lang: Python.
-👾 Wants to learn: Machine Learning and AI.
-💼 Experience: 4-5 years.
-🇺🇸 Participating in: FBLA. (2 years) 
-🌳 Hobbies: Mountain Biking, Tennis, Swimming.
-
-📜 About me: I began coding when I was around 11. Fast forward to now, and I have learned more industry related langauges, and started several open source projects. I am currently learning Golang and C#. 
-
-```
 
 <br />
 
