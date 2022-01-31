@@ -31,12 +31,12 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=shlimazl1337&theme=radical" >
 </details>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlimazl1337&layout=compact" >
 </details>
 
 
