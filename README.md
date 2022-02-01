@@ -29,13 +29,6 @@
 
 <br />
 
-## <img src="https://user-images.githubusercontent.com/93388959/151858343-4ee2ffab-5eaa-49f6-a60a-1b10823a776a.png" height="20" /> Latest YouTube Videos
-
-<!-- YOUTUBE:START --
-<!-- YOUTUBE:END -->
-
-<br />
-
 ## Unnecessary Things
 
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=shlimazl1337&theme=material-palenight"></p>
@@ -44,5 +37,3 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlimazl1337&layout=compact&theme=blueberry" /></p>
 
-[youtube]: https://www.youtube.com/channel/UC5xrD4EqBRtlQnMfyTIJ72Q
-[instagram]: https://www.instagram.com/bencoksanslibirinsanim
