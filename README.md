@@ -7,9 +7,7 @@
 <br>
 
 ```diff
-🎂 Age: 15
 📬 Discord: Shlimazl#1337
-⏳︎ Experience: 5 Months
 🖥️ Favorite: Python, Discord
 👾 I'm learning: Everything
 ```
