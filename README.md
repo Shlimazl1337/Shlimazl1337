@@ -17,7 +17,9 @@
 
 ### 🔗 Reach Out To Me
 
+[<img height="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][instagram]
 [<img height="22" src="https://unpkg.com/simple-icons@v6/icons/discord.svg" align="left"/>][discord]
+[<img height="22" src="https://unpkg.com/simple-icons@v6/icons/telegram.svg" align="left"/>][telegram]
 
 <br />
 
@@ -36,3 +38,5 @@
 
 
 [discord]: https://discord.gg/TEWBYRM2eC
+[telegram]: https://t.me/shli1337
+[instagram]: https://instagram.com/shli1337
