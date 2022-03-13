@@ -37,6 +37,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlimazl1337&layout=compact&theme=blueberry" /></p>
 
 
-[discord]: https://discord.gg/TEWBYRM2eC
+[discord]: https://discord.gg/SJg6yvU68t
 [telegram]: https://t.me/shli1337
 [instagram]: https://instagram.com/shli1337
